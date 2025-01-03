@@ -5,7 +5,7 @@ I enjoy learning new things about coding.
 
 ## ✨ Skills
 - **Programming Languages**: C
-- **Frameworks**: PyTorch, visual studio
+- **Frameworks**: PyTorch, Visual Studio
 
 
 ## 📚 경험 (experience)
@@ -23,7 +23,6 @@ I enjoy learning new things about coding.
 | 2023.06.22        | 우수논문상  | 정보보호학회장상              | 한국정보보호학회        |
 | 2023.09.19        | 최우수상    | 충청남도지사상                | 충청남도                |
 | 2023.12.02        | 우수논문상  | 한국인터넷진흥원 원장상       | 한국정보보호학회        |
-| 2024.06.20        | 우수논문상  | 한국전자통신연구원 원장상     | 한국정보보호학회        |
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical)
